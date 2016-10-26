@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingSampeProject</string>
+    <string name="emailDefault">keine Emailadresse</string>
+</resources>
