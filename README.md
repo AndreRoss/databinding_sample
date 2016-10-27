@@ -1,3 +1,3 @@
-# databinding_sample
+# Databinding in Android
 
-Databinding Präsentation [here](Databinding.pdf)
+Präsentation [here](Databinding.pdf)
