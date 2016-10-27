@@ -4,6 +4,7 @@ import de.check24.databinding.model.Person;
 
 /**
  * View model that acts between model {@link Person} and view and contains
+ * the display logic.
  */
 public class PersonViewModel {
 
