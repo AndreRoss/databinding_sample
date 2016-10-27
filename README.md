@@ -1,3 +1,3 @@
 # Databinding in Android
 
-Präsentation [here](Databinding.pdf)
+ [Präsentation als PDF](Databinding.pdf)
