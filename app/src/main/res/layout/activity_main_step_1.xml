@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layout>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <LinearLayout
         android:id="@+id/activity_main"
@@ -16,36 +17,36 @@
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="Max Mustermann"/>
+            tools:text="Max Mustermann" />
 
         <TextView
             android:id="@+id/street"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="Musterstraße 1"/>
+            tools:text="Musterstraße 1" />
 
         <TextView
             android:id="@+id/city"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="11111 Musterhausen"/>
+            tools:text="11111 Musterhausen" />
 
         <TextView
             android:id="@+id/phone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="0815 / 12345"/>
+            tools:text="0815 / 12345" />
 
         <TextView
             android:id="@+id/mobile"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="1234"/>
+            tools:text="1234" />
 
         <TextView
             android:id="@+id/email"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="max.mustermann@check24.de"/>
+            tools:text="max.mustermann@check24.de" />
     </LinearLayout>
 </layout>
